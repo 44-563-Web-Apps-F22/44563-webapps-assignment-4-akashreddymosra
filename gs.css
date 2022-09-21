@@ -90,8 +90,8 @@
 }
 
 .hitman {
-    background-color: #F0FFF0;
-}
+    background-color: #FDF5E6;
+  } 
 
 h1.h1 {
     color: green;
@@ -129,24 +129,24 @@ tr:nth-child(even) {
 
 .PISH span:hover {
     background-color: #DCDCDC;
-    text-shadow:3PX 1.5PX 4PX rgb(18, 18, 18);
+    text-shadow: 3PX 1.5PX 4PX rgb(18, 18, 18);
 }
 
 .NANK span:hover {
     background-color: #DCDCDC;
-    text-shadow:3PX 1.5PX 4PX #0b0b0b;
+    text-shadow: 3PX 1.5PX 4PX #0b0b0b;
 
 }
 
 .POOH span:hover {
     background-color: #DCDCDC;
-    text-shadow:3PX 1.5PX 4PX #f51212;
+    text-shadow: 3PX 1.5PX 4PX #f51212;
 
 }
 
 .KO span:hover {
     background-color: #DCDCDC;
-    text-shadow:3PX 1.5PX 4PX #100f0f;
+    text-shadow: 3PX 1.5PX 4PX #100f0f;
 
 }
 
@@ -166,4 +166,31 @@ tr:nth-child(even) {
     background-color: whitesmoke;
     text-shadow: 3PX 1.5PX 4PX #FF0000;
 
+}
+
+
+ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 1px;
+    overflow: hidden;
+    background-color: #808080;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #F08080;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+
+}
+
+li a:hover {
+    background-color: #E6E6FA;
 }
