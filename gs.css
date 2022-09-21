@@ -1,0 +1,78 @@
+.speech{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: bold;
+}
+.directions{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: aquamarine;
+
+}
+.song{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    padding-left: 35%;
+    padding-right: 65%;
+    width: 30%;
+    
+   
+
+}
+.PISH{
+    font-size: 25px;
+    font-family:'Courier New', Courier, monospace;
+    color: brown;
+    
+    
+}
+.NANK{
+     font-size: 25px;
+     font-family:'Courier New', Courier, monospace;
+     color:firebrick;  
+}
+.POOH{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    color:red;
+
+}
+.KO{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    color:darkred;
+}
+.YUM{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    color:blue;
+}
+.PITTI{
+    font-size: 25PX;
+    font-family: 'Courier New', Courier, monospace;
+    color:cornflowerblue;
+}
+.PEEP{
+    font-size: 25PX;
+    font-family: 'Courier New', Courier, monospace;
+    color:blue;
+}
+.directions:hover{
+    background-color:aqua;
+    color: black;
+}
+.h3{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: crimson;
+}
+.hitman{
+    background-color: antiquewhite ;
+}
+
+h1.h1{
+    color: green;
+}
