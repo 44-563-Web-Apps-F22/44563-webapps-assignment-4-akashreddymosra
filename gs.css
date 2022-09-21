@@ -1,78 +1,169 @@
-.speech{
+.speech {
     font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
     color: black;
     font-weight: bold;
 }
-.directions{
+
+.directions {
     font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
     color: black;
     background-color: aquamarine;
 
 }
-.song{
+
+.song {
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
     color: black;
     padding-left: 35%;
     padding-right: 65%;
     width: 30%;
-    
-   
+    font-weight: bold;
+
+
 
 }
-.PISH{
-    font-size: 25px;
-    font-family:'Courier New', Courier, monospace;
-    color: brown;
-    
-    
-}
-.NANK{
-     font-size: 25px;
-     font-family:'Courier New', Courier, monospace;
-     color:firebrick;  
-}
-.POOH{
+
+.PISH {
     font-size: 25px;
     font-family: 'Courier New', Courier, monospace;
-    color:red;
+    color: rgb(237, 90, 220);
+
 
 }
-.KO{
+
+.NANK {
     font-size: 25px;
     font-family: 'Courier New', Courier, monospace;
-    color:darkred;
+    color: rgb(34, 166, 178);
 }
-.YUM{
+
+.POOH {
     font-size: 25px;
     font-family: 'Courier New', Courier, monospace;
-    color:blue;
+    color: rgb(46, 18, 230);
+
 }
-.PITTI{
-    font-size: 25PX;
+
+.KO {
+    font-size: 25px;
     font-family: 'Courier New', Courier, monospace;
-    color:cornflowerblue;
+    color: rgb(121, 213, 60);
 }
-.PEEP{
-    font-size: 25PX;
+
+.YUM {
+    font-size: 25px;
     font-family: 'Courier New', Courier, monospace;
-    color:blue;
+    color: rgb(166, 63, 85);
 }
-.directions:hover{
-    background-color:aqua;
+
+.PITTI {
+    font-size: 25PX;
+    font-family: cursive;
+    color: rgb(34, 166, 178);
+}
+
+.PEEP {
+    font-size: 25PX;
+    font-family: cursive;
+    color: rgb(7, 7, 8);
+}
+
+.directions:hover {
+    background-color: aqua;
     color: black;
 }
-.h3{
+
+.h3 {
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
     color: crimson;
 }
-.hitman{
-    background-color: antiquewhite ;
+
+.h5 {
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    color: crimson;
+    padding-left: 35%;
 }
 
-h1.h1{
+.hitman {
+    background-color: #F0FFF0;
+}
+
+h1.h1 {
     color: green;
+}
+
+.table {
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50%;
+    font: italic;
+    margin: auto;
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+
+    margin: auto;
+
+}
+
+th {
+    border: 2px solid black;
+    text-align: center;
+    background-color: #CD5C5C;
+    margin: auto;
+    padding: 11.5px;
+
+}
+
+tr:nth-child(even) {
+    background-color: #ADD8E6;
+}
+
+.PISH span:hover {
+    background-color: #DCDCDC;
+    text-shadow:3PX 1.5PX 4PX rgb(18, 18, 18);
+}
+
+.NANK span:hover {
+    background-color: #DCDCDC;
+    text-shadow:3PX 1.5PX 4PX #0b0b0b;
+
+}
+
+.POOH span:hover {
+    background-color: #DCDCDC;
+    text-shadow:3PX 1.5PX 4PX #f51212;
+
+}
+
+.KO span:hover {
+    background-color: #DCDCDC;
+    text-shadow:3PX 1.5PX 4PX #100f0f;
+
+}
+
+.YUM span:hover {
+    background-color: #DCDCDC;
+    text-shadow: 3PX 1.5PX 4PX #f51212;
+
+}
+
+.PITTI span:hover {
+    background-color: #DCDCDC;
+
+    text-shadow: 3PX 1.5PX 4PX rgb(14, 14, 14);
+}
+
+.PEEP span:hover {
+    background-color: whitesmoke;
+    text-shadow: 3PX 1.5PX 4PX #FF0000;
+
 }
