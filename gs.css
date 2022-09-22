@@ -91,6 +91,7 @@
 
 .hitman {
     background-color: #FDF5E6;
+    imag
   } 
 
 h1.h1 {
@@ -130,29 +131,34 @@ tr:nth-child(even) {
 .PISH span:hover {
     background-color: #DCDCDC;
     text-shadow: 3PX 1.5PX 4PX rgb(18, 18, 18);
+    border: 1.5px solid black;
 }
 
 .NANK span:hover {
     background-color: #DCDCDC;
     text-shadow: 3PX 1.5PX 4PX #0b0b0b;
+    border: 1.5px solid black;
 
 }
 
 .POOH span:hover {
     background-color: #DCDCDC;
     text-shadow: 3PX 1.5PX 4PX #f51212;
+    border: 1.5px solid black;
 
 }
 
 .KO span:hover {
     background-color: #DCDCDC;
     text-shadow: 3PX 1.5PX 4PX #100f0f;
+    border: 1.5px solid black;
 
 }
 
 .YUM span:hover {
     background-color: #DCDCDC;
     text-shadow: 3PX 1.5PX 4PX #f51212;
+    border: 1.5px solid black;
 
 }
 
@@ -160,11 +166,13 @@ tr:nth-child(even) {
     background-color: #DCDCDC;
 
     text-shadow: 3PX 1.5PX 4PX rgb(14, 14, 14);
+    border: 1.5px solid black;
 }
 
 .PEEP span:hover {
     background-color: whitesmoke;
     text-shadow: 3PX 1.5PX 4PX #FF0000;
+    border: 1.5px solid black;
 
 }
 
@@ -172,10 +180,10 @@ tr:nth-child(even) {
 ul {
 
     list-style-type: none;
-    margin: 0;
+    margin:0;
     padding: 1px;
     overflow: hidden;
-    background-color: #808080;
+    background-color: #D8BFD8;
 }
 
 li {
@@ -184,7 +192,7 @@ li {
 
 li a {
     display: block;
-    color: #F08080;
+    color: #100f0f;
     text-align: center;
     padding: 10px 10px;
     text-decoration: none;
